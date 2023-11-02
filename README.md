@@ -8,6 +8,5 @@ It may very well be that you can also set this within Zotero, the search for it 
 ## How it works:
 Bash-script recursively traverses given zotero directory, gathers pdf-info (like number of pages, file size, file-paths) and exports the result as csv.
 
-## requirement:
-pdf-info needs to be installed
+
 
